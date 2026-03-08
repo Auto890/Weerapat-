@@ -1,16 +1,14 @@
-# Hi 👋 I'm Auto
+## 👋 About Me
+Hi, I'm weerapat unkaeo👋  
+A student who is passionate about programming, data, and technology.
 
-💻 I'm interested in Programming  
-📚 Currently learning Java / SQL / Data Engineering  
-🚀 I like building data projects
+## 🧠 Skills
+💻 Programming: Java, HTML, CSS  
+🗄 Database: SQL, MySQL  
+🌐 Web Development
 
-## Skills
-- Java
-- SQL
-- Python
-- HTML / CSS
-
-## Tools
-- Git
-- Docker
-- PostgreSQL
+## 🛠 Tools
+🔧 Git & GitHub  
+🖥 VS Code  
+⚡ Arduino / ESP32  
+🗄 MySQL
